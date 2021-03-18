@@ -1,0 +1,34 @@
+{
+  "name": "repl-preview",
+  "version": "0.0.0",
+  "description": "Preview output results in a REPL context.",
+  "main": "index.js",
+  "scripts": {
+    "test": ":"
+  },
+  "keywords": [
+    "repl",
+    "cli",
+    "preview",
+    "eval",
+    "hint",
+    "pretty"
+  ],
+  "author": "Joseph Werle <werle@littlstar.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cli-truncate": "^2.1.0"
+  },
+  "devDependencies": {
+    "faker": "^5.4.0",
+    "jsonata": "^1.8.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/little-core-labs/repl-preview.git"
+  },
+  "bugs": {
+    "url": "https://github.com/little-core-labs/repl-preview/issues"
+  },
+  "homepage": "https://github.com/little-core-labs/repl-preview#readme"
+}
