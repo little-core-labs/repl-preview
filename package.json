@@ -1,6 +1,6 @@
 {
   "name": "repl-preview",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Preview output results in a REPL context.",
   "main": "index.js",
   "scripts": {
